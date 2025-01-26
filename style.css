@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    margin: 10 px;
+    font-size: 20px;
+}
+
+header {
+    border: 3px solid blue;
+    border-radius: 10px;
+}
+
+h1 {
+    color: blue;
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 10px;
+}
+
+footer {
+    margin-left: 50px;
+}
+
+footer p {
+    padding: 5px;
+    background-color:rgb(21, 211, 21);
+}
+
+footer b {
+    margin-left: 30px;
+}
+
+.vity {
+    background-color: #c1f597;
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+}
+
+h2 {
+    color: blue;
+}
+.vit {
+    border: 2px solid darkblue;
+
+}
+.vi {
+    border: 2px solid darkblue;
+    border-radius: 5px;
+}
